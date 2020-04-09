@@ -684,7 +684,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   line-height: 24px;
 }
 
-/* vis1 Section
+/* vis3 Section
 --------------------------------*/
 #vis3 {
   background: #fff;
@@ -755,6 +755,26 @@ body.mobile-nav-active #mobile-nav-toggle {
 #vis3 .description {
   font-size: 14px;
   line-height: 24px;
+}
+
+/* vis4 Section
+--------------------------------*/
+#vis4 {
+  background: #f7f7f7;
+  padding: 80px 0 60px 0;
+}
+
+#vis4 .counters span {
+  font-size: 48px;
+  display: block;
+  color: #2dc997;
+}
+
+#vis4 .counters p {
+  padding: 0;
+  margin: 0 0 20px 0;
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
 }
 
 /* Portfolio Section
